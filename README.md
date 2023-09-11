@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LazarevAA1980
-- 🌱 I’m currently learning GIT course by Stepic
+- 🌱 I’m currently learning Windows Forms course by Stepic
 
 <!---
 LazarevAA1980/LazarevAA1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
